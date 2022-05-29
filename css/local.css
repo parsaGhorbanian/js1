@@ -1,0 +1,36 @@
+/* sm mobile */
+@media screen and (max-width:575px){
+    #head_top{
+        padding: 15px;
+    }
+}
+/* **************************************** */
+/* big mobile */
+@media screen and (min-width: 576px){
+    #head_top{
+        padding: 15px;
+    }
+}
+/* **************************************** */
+/* tablet */
+@media screen and (min-width: 768px){
+
+}
+/* **************************************** */
+/* sm desktop */
+@media screen and (min-width: 992px){
+
+}
+/* **************************************** */
+
+/* big desktop */
+@media screen and (min-width: 1200px){
+    #head_top{
+        padding: 15px 30px;
+    }
+}
+/* **************************************** */
+/* 4k */
+@media screen and (min-width: 1400px){
+
+}
